@@ -7,5 +7,9 @@
 *I enjoy learning about users and innovating ideas that makes their lives easier. 
 *My tools of trade are:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,nodejs,kotlin,reactnative,figma,vue,react&perline=3)](https://skillicons.dev)
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,nodejs,kotlin,reactnative,figma,vue&perline=3)](https://skillicons.dev)
 
