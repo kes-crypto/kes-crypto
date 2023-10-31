@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript and blockchain development**
 
-- 👨‍💻 All of my projects are available at my Porfolio [https://denniskestone.vercel.app/](https://denniskestone.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Porfolio](https://denniskestone.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Kestone](https://hashnode.com/@Kestone)
 
