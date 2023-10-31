@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **denniskestone@gmail.com**
 
-- 📄 Know about my experiences, here is a link to my [resume][https://docs.google.com/document/d/1jqZNr3QWX7ME_xlKqchr9JadZaILF-H9/edit?usp=sharing&ouid=114529959006696673698&rtpof=true&sd=true](https://docs.google.com/document/d/1jqZNr3QWX7ME_xlKqchr9JadZaILF-H9/edit?usp=sharing&ouid=114529959006696673698&rtpof=true&sd=true)
+- 📄 Know about my experiences, here is a link to my [resume](https://docs.google.com/document/d/1jqZNr3QWX7ME_xlKqchr9JadZaILF-H9/edit?usp=sharing&ouid=114529959006696673698&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am really fascinated by the diverse and intricate secrets of the wide universe.**
 
