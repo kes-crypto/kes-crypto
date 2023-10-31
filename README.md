@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kes-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="kes-crypto" /> </p>
 
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript and blockchain development**
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript and blockchain development.
 
 - 👨‍💻 All of my projects are available at [My Porfolio](https://denniskestone.vercel.app/)
 
