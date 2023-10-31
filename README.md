@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Porfolio](https://denniskestone.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Kestone](https://hashnode.com/@Kestone)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Kestone)
 
 - 📫 How to reach me **denniskestone@gmail.com**
 
