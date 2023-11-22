@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Dennis Kestone</h1>
-<h3 align="center">A passionate frontend developer from Kisumu, Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Kisumu, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kes-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="kes-crypto" /> </p>
 
